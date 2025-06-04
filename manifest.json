@@ -1,6 +1,6 @@
 {
-  "name": "Radio Mix Solo Éxitos",
-  "short_name": "RadioMix",
+  "name": "Vva la Radio online",
+  "short_name": "vivalaradio",
   "description": "Reproductor de Radio con historial de canciones.",
   "start_url": ".",
   "display": "standalone",
